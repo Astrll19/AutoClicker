@@ -55,9 +55,7 @@
 - **Klik kanan** lingkaran → hapus target
 - Toggle show/hide dari header atau tab Multi-Target
 
----
-
-## 👁 IMAGE RECOGNITION
+ 👁 IMAGE RECOGNITION
 - Watch layar, auto klik kalau gambar tertentu muncul
 - **Snip screen** — seleksi area layar langsung buat jadi template
 - Setting confidence level
